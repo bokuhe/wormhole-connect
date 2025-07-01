@@ -151,8 +151,8 @@ export const TESTNET_TOKENS: TokenConfig[] = [
     tokenId: { chain: 'Klaytn', address: 'native' },
   },
   {
-    symbol: 'WKLAY',
-    name: 'wKLAY',
+    symbol: 'wKAIA',
+    name: 'wKAIA',
     icon: TokenIcon.KLAY,
     decimals: 18,
     tokenId: {

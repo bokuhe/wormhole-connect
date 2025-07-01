@@ -461,9 +461,9 @@ export const MAINNET_TOKENS: TokenConfig[] = [
     tokenId: { chain: 'Klaytn', address: 'native' },
   },
   {
-    symbol: 'WKLAY',
+    symbol: 'wKAIA',
     decimals: 18,
-    name: 'wKLAY',
+    name: 'wKAIA',
     icon: TokenIcon.KLAY,
     tokenId: {
       chain: 'Klaytn',
